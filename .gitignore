@@ -136,6 +136,6 @@ dist
 .pnp.*
 
 
-.insertUser.js
-.testQuery.js
+insertUser.js
+testQuery.js
 /NodeDatabase
